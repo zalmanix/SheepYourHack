@@ -1,4 +1,7 @@
 export default function Message(props) {
+    var title = props.title.slice(0, 25);
+    var content = props.content.slice(0, 50);
+    var src = props.src;
 
     return (
         <>
