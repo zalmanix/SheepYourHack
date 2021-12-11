@@ -1,5 +1,6 @@
 import Container from '../components/container';
 import Message from '../components/message';
+import HelloMessage from '../components/helloMessage';
 
 export default function Home() {
   return (

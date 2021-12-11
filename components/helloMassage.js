@@ -1,4 +1,4 @@
-export default function Message(props) {
+export default function HelloMessage(props) {
 
     return (
         <>
